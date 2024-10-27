@@ -1,4 +1,15 @@
 {
-  "projectName": "<insert the repo's name>",
-  "projectOwner": "<insert the repo's owner/orgs>"
+  "projectName": "ClopiMedi – Your Heart's Trusted Care",
+  "projectOwner": "Biswadeb Mukherjee",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
 }
