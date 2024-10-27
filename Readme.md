@@ -102,21 +102,6 @@
     <li>Access the app at <code>http://localhost:5000</code> to verify that your environment is set up correctly.</li>
 </ol>
 
-<h2 id="our-contributors">Our Contributors</h2>
-<p>We extend our sincere thanks to everyone who has contributed to ClopiMedi. Your efforts make this project possible!</p>
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome
-
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License. See the <a href="License.md">LICENSE</a> file for details.</p>
 
