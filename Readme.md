@@ -106,9 +106,7 @@
 <p>We extend our sincere thanks to everyone who has contributed to ClopiMedi. Your efforts make this project possible!</p>
 
 <p>All contributors are acknowledged below:</p>
-@all-contributors
-please add @<username> for <contributions>. 
-please add @<username> for <contributions>.
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
 
 
 <h2 id="license">License</h2>
