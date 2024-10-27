@@ -16,6 +16,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#about-developer">About the Developer</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contacts">Contacts</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
@@ -71,7 +72,7 @@
 <ol>
     <li><strong>Fork the Repository:</strong> Start by forking this repository to your GitHub account.</li>
     <li><strong>Clone Your Fork:</strong> Clone the repository to your local machine to make changes. Use the following command:</li>
-    <pre><code>git clone https://github.com/your-username/ClopiMedi.git</code></pre>
+    <pre><code>git clone https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care</code></pre>
     <li><strong>Create a Branch:</strong> Create a new branch for your feature or bug fix. This makes it easier to manage changes and submit a pull request. Use:</li>
     <pre><code>git checkout -b feature-branch-name</code></pre>
     <li><strong>Make Changes:</strong> Implement your changes, whether it's fixing a bug, adding a new feature, or improving documentation.</li>
@@ -105,16 +106,9 @@
 <p>We extend our sincere thanks to everyone who has contributed to ClopiMedi. Your efforts make this project possible!</p>
 
 <p>All contributors are acknowledged below:</p>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/username">
-        <img src="https://avatars.githubusercontent.com/username" width="100px;" alt=""/><br />
-        <sub><b>Contributor Name</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+@all-contributors
+please add @<username> for <contributions>. 
+please add @<username> for <contributions>.
 
 
 <h2 id="license">License</h2>
@@ -126,6 +120,6 @@
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>Special thanks to open-source contributors and libraries that made this project possible.</p>
 
-<h3>Contact for Questions</h3>
+<h2 id="contacts">Contact for Questions</h2>
 <p>For questions or guidance, open an issue or reach out to the developer via email at <a href="mailto:biswadebmukherjee941@gmail.com">biswadebmukherjee941@gmail.com</a> or through his <a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/">portfolio</a>.</p>
 
