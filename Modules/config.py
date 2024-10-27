@@ -1,6 +1,7 @@
 DATABASE_CONFIG = {
     'host': 'localhost',
-    'user': 'Biswadeb',
-    'password': '#Biswadeb-941',
+    'user': '',
+    'password': '',
     'database': 'registration',
+    'port': 3306 
 }

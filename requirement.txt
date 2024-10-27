@@ -22,8 +22,6 @@ SQLAlchemy
 stack-data
 sympy
 tensorflow
-torch
-torchdata
 virtualenv
 wcwidth
 Werkzeug

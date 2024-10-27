@@ -51,10 +51,10 @@ db_connection.commit()
 db_connection.close()
 
 # Load the recommendation model
-data_path = "recommend/data/input/appointments.csv"
-model_filename = 'recommend/data/output/model.pkl'
-specialist_dataset_filename = 'recommend/data/input/specialist.csv'
-general_physician_dataset_filename = 'recommend/data/input/general.csv'
+data_path = "Model/data/input/appointments.csv"
+model_filename = 'Model/data/output/model.pkl'
+specialist_dataset_filename = 'Model/data/input/specialist.csv'
+general_physician_dataset_filename = 'Model/data/input/general.csv'
 recommendation_model = RecommendationModel(data_path, model_filename, specialist_dataset_filename, general_physician_dataset_filename)
 
 
