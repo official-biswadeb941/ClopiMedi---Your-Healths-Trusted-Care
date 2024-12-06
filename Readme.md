@@ -1,8 +1,8 @@
-<h1>ClopiMedi – Your Heart's Trusted Care</h1>
+<h1>ClopiMedi – Your Health's Trusted Care</h1>
 
-<p><strong>Developed by Biswadeb Mukherjee</strong> to streamline heart care appointments and enhance digital healthcare experiences for patients and providers.</p>
+<p><strong>Developed by Biswadeb Mukherjee</strong> to streamline healthcare appointments and enhance digital healthcare experiences for patients and providers.</p>
 
-<p>ClopiMedi is an intelligent health care appointment booking system that uses AI to provide personalized doctor recommendations. Designed for patients and healthcare providers, ClopiMedi streamlines appointments to enhance the patient experience.</p>
+<p>ClopiMedi is an intelligent healthcare appointment booking system that uses AI to provide personalized doctor recommendations. Designed for patients and healthcare providers, ClopiMedi streamlines appointments to enhance the patient experience.</p>
 
 <h2 id="table-of-contents">Table Of Contents</h2>
 <ul>
@@ -20,7 +20,7 @@
 </ul>
 
 <h2 id="introduction">Introduction</h2>
-<p>ClopiMedi is a health care appointment system powered by AI to recommend the best doctor options based on patient input and medical history. It provides a seamless, user-friendly interface for both patients and doctors.</p>
+<p>ClopiMedi is a healthcare appointment system powered by AI to recommend the best doctor options based on patient input and medical history. It provides a seamless, user-friendly interface for both patients and doctors.</p>
 
 <h2 id="features">Features</h2>
 <ul>
